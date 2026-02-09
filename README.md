@@ -1,10 +1,5 @@
 # 📊 Financial Loan Portfolio - Exploratory Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Complete-success.svg)
-
 A comprehensive exploratory data analysis (EDA) project on a financial loan dataset containing 38,576 loan records. This project demonstrates end-to-end data analysis skills, from data quality assessment to actionable business insights for lending risk management.
 
 ---
