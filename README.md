@@ -9,22 +9,6 @@ A comprehensive exploratory data analysis (EDA) project on a financial loan data
 
 ---
 
-## 📑 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset Description](#dataset-description)
-- [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation & Usage](#installation--usage)
-- [Analysis Highlights](#analysis-highlights)
-- [Business Recommendations](#business-recommendations)
-- [Visualizations](#visualizations)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Future Work](#future-work)
-
----
-
 ## 🎯 Project Overview
 
 This project performs a detailed exploratory data analysis on a financial loan dataset to uncover:
