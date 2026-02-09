@@ -81,26 +81,6 @@ Understanding loan characteristics and borrower behavior is critical for risk as
 
 ---
 
-## 📁 Project Structure
-
-```
-financial-loan-eda/
-│
-├── README.md
-├── Financial_Loan_EDA_Project.ipynb    # Main analysis notebook
-├── data/
-│   └── financial_loan.xlsx              # Dataset (not included in repo)
-├── images/                              # Visualization outputs
-│   ├── correlation_heatmap.png
-│   ├── loan_status_distribution.png
-│   ├── grade_interest_rate.png
-│   └── ...
-├── requirements.txt                     # Python dependencies
-└── LICENSE
-```
-
----
-
 ## 🚀 Installation & Usage
 
 ### 1. Clone the Repository
