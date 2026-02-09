@@ -22,8 +22,6 @@ A comprehensive exploratory data analysis (EDA) project on a financial loan data
 - [Visualizations](#visualizations)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Future Work](#future-work)
-- [Author](#author)
-- [License](#license)
 
 ---
 
@@ -278,47 +276,6 @@ jupyter>=1.0.0
 - [ ] **Monitoring Pipeline:** Track model performance over time
 
 ---
-
-## 👨‍💻 Author
-
-**Your Name**  
-Data Scientist | Financial Analytics Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset source: [Specify if public dataset or anonymized company data]
-- Inspiration: Financial risk management best practices
-- Community: Open-source data science community
-
----
-
-## 📞 Contact & Feedback
-
-Feel free to reach out for:
-- 💬 Questions about the analysis
-- 🤝 Collaboration opportunities
-- 📊 Feedback and suggestions
-- 🎯 Career discussions in data science
-
-**Email:** your.email@example.com  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
----
-
-#
 
 <div align="center">
 
